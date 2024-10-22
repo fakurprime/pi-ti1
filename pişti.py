@@ -1,6 +1,5 @@
 
 import random as r
-import godlib as g
 deste = []
 el1 = []
 el2 = []
